@@ -1,0 +1,54 @@
+{
+  "mode": "standard",
+  "generated_at": "2026-02-26T17:38:33.313194+00:00",
+  "stats": {
+    "mode": "standard",
+    "tag_count": 1,
+    "deep_divecandidates": 0,
+    "deep_cap": 6,
+    "deep_selected": 0,
+    "quick_candidates": 1,
+    "quick_skim_target": 11,
+    "quick_selected": 1
+  },
+  "deep_dive": [],
+  "quick_skim": [
+    {
+      "id": "2602.17641v1",
+      "title": "FAMOSE: A ReAct Approach to Automated Feature Discovery",
+      "abstract": "Feature engineering remains a critical yet challenging bottleneck in machine learning, particularly for tabular data, as identifying optimal features from an exponentially large feature space traditionally demands substantial domain expertise. To address this challenge, we introduce FAMOSE (Feature AugMentation and Optimal Selection agEnt), a novel framework that leverages the ReAct paradigm to autonomously explore, generate, and refine features while integrating feature selection and evaluation tools within an agent architecture. To our knowledge, FAMOSE represents the first application of an agentic ReAct framework to automated feature engineering, especially for both regression and classification tasks. Extensive experiments demonstrate that FAMOSE is at or near the state-of-the-art on classification tasks (especially tasks with more than 10K instances, where ROC-AUC increases 0.23% on average), and achieves the state-of-the-art for regression tasks by reducing RMSE by 2.0% on average, while remaining more robust to errors than other algorithms. We hypothesize that FAMOSE's strong performance is because ReAct allows the LLM context window to record (via iterative feature discovery and evaluation steps) what features did or did not work. This is similar to a few-shot prompt and guides the LLM to invent better, more innovative features. Our work offers evidence that AI agents are remarkably effective in solving problems that require highly inventive solutions, such as feature engineering.",
+      "authors": [
+        "Keith Burghardt",
+        "Jienan Liu",
+        "Sadman Sakib",
+        "Yuning Hao",
+        "Bo Li"
+      ],
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-02-19T18:53:15+00:00",
+      "link": "https://arxiv.org/pdf/2602.17641v1",
+      "tags": [
+        "keyword:SR",
+        "query:SR"
+      ],
+      "llm_score": 6.0,
+      "llm_evidence_en": "automated feature discovery and regression",
+      "llm_evidence_cn": "自动特征发现与回归",
+      "llm_evidence": "自动特征发现与回归",
+      "llm_tldr_en": "Proposes an agentic framework for autonomous feature exploration and refinement in regression tasks.",
+      "llm_tldr_cn": "提出了一种用于回归任务中自主特征探索和优化的智能体框架。",
+      "llm_tldr": "提出了一种用于回归任务中自主特征探索和优化的智能体框架。",
+      "llm_tags": [
+        "query:sr"
+      ],
+      "matched_query_tag": "query:sr",
+      "matched_query_text": "Recent advances and state-of-the-art methods in symbolic regression",
+      "matched_requirement_id": "req-2",
+      "quick_tier": "6"
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 * [首页](/)
 * Daily Papers
+  * 2026-02-26 <!--dpr-date:20260226-->
+    * 速读区
+      * <a class="dpr-sidebar-item-link" href="#/202602/26/2602.17641v1-famose-a-react-approach-to-automated-feature-discovery"><div class="dpr-sidebar-title">FAMOSE: A ReAct Approach to Automated Feature Discovery</div><div class="dpr-sidebar-tags"><span class="dpr-sidebar-tag dpr-sidebar-tag-score"><span class="dpr-stars" title="评分：6.0/10（3.0/5）" aria-label="3.0 out of 5"><span class="dpr-stars-bg">☆☆☆☆☆</span><span class="dpr-stars-fill" style="width:60%">★★★★★</span></span></span> <span class="dpr-sidebar-tag dpr-sidebar-tag-query">sr</span></div></a>
   * 2026-02-25 <!--dpr-date:20260225-->
     * 速读区
       * <a class="dpr-sidebar-item-link" href="#/202602/25/2602.16823v1-formal-mechanistic-interpretability-automated-circuit-discovery-with-provable-guarantees"><div class="dpr-sidebar-title">Formal Mechanistic Interpretability: Automated Circuit Discovery with Provable Guarantees</div><div class="dpr-sidebar-tags"><span class="dpr-sidebar-tag dpr-sidebar-tag-score"><span class="dpr-stars" title="评分：6.0/10（3.0/5）" aria-label="3.0 out of 5"><span class="dpr-stars-bg">☆☆☆☆☆</span><span class="dpr-stars-fill" style="width:60%">★★★★★</span></span></span> <span class="dpr-sidebar-tag dpr-sidebar-tag-query">sr</span></div></a>

@@ -9,27 +9,24 @@
 </div>
 
 ## 每次日报
-- 最新运行日期：2026-02-25
-- 运行时间：2026-02-25 19:36:35 UTC
+- 最新运行日期：2026-02-26
+- 运行时间：2026-02-26 17:38:52 UTC
 - 运行状态：成功
-- 本次总论文数：3
+- 本次总论文数：1
 - 精读区：0
-- 速读区：3
+- 速读区：1
 
 ### 今日简报（AI）
-今日聚焦可解释性机器学习，重点攻克自动化电路发现、模加法动力学及纳米材料稳定性预测。
-研究揭示了
-- 详情：[/202602/25/README](/202602/25/README)
+今日聚焦自动化特征发现，探索 FAMOSE 框架如何利用 ReAct 范式提升数据挖掘效率。
+该研究展示了通过大模型自主决策与环境交互，能够实现更智能、自动化的特征工程闭环。
+建议关注 AI Agent 在数据科学工作流中的落地，尝试将 ReAct 模式引入特征工程实践。
+- 详情：[/202602/26/README](/202602/26/README)
 
 ### 精读区论文标签
 - 本次无精读推荐。
 
 ### 速读区论文标签
-1. [Formal Mechanistic Interpretability: Automated Circuit Discovery with Provable Guarantees](/202602/25/2602.16823v1-formal-mechanistic-interpretability-automated-circuit-discovery-with-provable-guarantees)  
-   标签：评分：6.0/10、query:sr
-2. [On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking](/202602/25/2602.16849v1-on-the-mechanism-and-dynamics-of-modular-addition-fourier-features-lottery-ticket-and-grokking)  
-   标签：评分：6.0/10、query:sr
-3. [Interpretable Machine Learning of Nanoparticle Stability through Topological Layer Embeddings](/202602/25/2602.17528v1-interpretable-machine-learning-of-nanoparticle-stability-through-topological-layer-embeddings)  
+1. [FAMOSE: A ReAct Approach to Automated Feature Discovery](/202602/26/2602.17641v1-famose-a-react-approach-to-automated-feature-discovery)  
    标签：评分：6.0/10、query:sr
 
 
